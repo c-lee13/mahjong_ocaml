@@ -13,6 +13,11 @@ _Note: in accordance with Cornell University's Academic Integrity Policy, we are
 
 **Functionality**:
 - Player name customization
+![Player Customization](mahjong_player.gif)
+
 - Player actions: Draw, Peng, Chi
 - Exposed hands display
+![Game Logic](mahjong_game_logic.gif)
+  
 - Winning algorithm implementation for determining game outcomes and game reset functionality
+![Restart Game](mahjong_reset.gif)

@@ -24,3 +24,6 @@ _Note: in accordance with Cornell University's Academic Integrity Policy, we are
 - Winning algorithm implementation for determining game outcomes and game reset functionality
   
 ![Restart Game](mahjong_reset.gif)
+
+### See Full Demo Video
+https://youtu.be/aaJk_hrTT1c?si=YQrU55yZbAccTDBh
